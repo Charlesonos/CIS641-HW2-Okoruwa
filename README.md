@@ -1,4 +1,11 @@
 ---
+title: "About me"
+permalink: "/about me/"
+layout: page
+---
+
+
+
 
 # My Name is Charles Okoruwa Onamudiana
 * I love God.
